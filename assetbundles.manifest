@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2394375050
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: monkey
+      Dependencies: {}
