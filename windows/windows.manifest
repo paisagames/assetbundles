@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1953148084
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: monkey
+      Dependencies: {}
+    Info_1:
+      Name: arestaurant
+      Dependencies: {}
