@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 1125328048
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ced38239dc768afe8704d05f3335638f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 98fdb67015a757a2dbe18b00731be3f1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2417dc05612f47478298508c234787a, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b2ca0c205514124a8408fed13ac6ec5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77f72343e5675c74ea706b2ae4bb7ed1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1843cbe93d28b5b439fb6536b533a889, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b22d502a6e90aea4f97134a034874547, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb6304fb2185d644fad69be234283a04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f4d570ccbf7dbd4084730c7c02432b7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f756374daec2c014aa127642c642b633, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d39eb77d2763c88419739600269d394f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94fcc0bfbea09674ba9f56992d69b3d3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/canvas_image/canvas_image.prefab
+- Assets/canvas_image.prefab
+Dependencies: []
