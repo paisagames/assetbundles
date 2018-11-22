@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3727239295
+CRC: 1765598931
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b703769d0ef612eaaf166832606552a7
+    Hash: a4ef061dc94fab2dc3ac8c85c9eff868
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6e42dfc7f4d0296d9e7a547a34bb123f
+    Hash: 98fdb67015a757a2dbe18b00731be3f1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -57,8 +57,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: d39eb77d2763c88419739600269d394f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 94fcc0bfbea09674ba9f56992d69b3d3, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 252062eefd4d9f8438d2123ca1777c41, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -72,5 +70,5 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/canvasytarget.prefab
+- Assets/canvas_image.prefab
 Dependencies: []
