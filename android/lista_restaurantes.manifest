@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2609142875
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1bf7cd2f7dbe6cefeb0550cce7d7d61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 38f4f46ebebded3fe4fab5f0fd279fba
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2417dc05612f47478298508c234787a, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77f72343e5675c74ea706b2ae4bb7ed1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddb69127af5909a4e9b69fd81f3a90d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c367b8775d34075428bc99ea4d86c817, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f4d570ccbf7dbd4084730c7c02432b7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67f2388ec8a82614ea4a2e59c737d1a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 497cb64fae2055641b4e333e0f0972c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cfbf46f515463b48ab25b0df51bd92e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/canvas_image/lista_gameobject.prefab
+Dependencies: []
