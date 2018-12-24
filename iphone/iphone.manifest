@@ -1,13 +1,13 @@
 ManifestFileVersion: 0
-CRC: 1158470390
+CRC: 2087288792
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: monkey
       Dependencies: {}
     Info_1:
-      Name: arestaurant
+      Name: arestaurant_v2
       Dependencies: {}
     Info_2:
-      Name: arestaurant_v2
+      Name: lista_restaurantes
       Dependencies: {}
