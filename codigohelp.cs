@@ -49,22 +49,13 @@ public void Descarga_codigo_help(){
 StartCoroutine(codigohelpienum());
 }
 IEnumerator codigohelpienum(){
-	
-	
-	
-	/*
-	ACTUALIZACION LOGIN_DB 1.0
-	
-	
-	
-	*/
 	Destroy(gameobject_publico);
 	string superstring="";
 	byte[] b;
 using (WWW www = new WWW("https://github.com/paisagames/assetbundles/raw/master/codigohelp.cs"))
         {
             yield return www;
-
+// version de descarga 1.0
 			//textodd=""+www.text;
 			superstring=www.text;
 			
@@ -78,7 +69,7 @@ using (WWW www = new WWW("https://github.com/paisagames/assetbundles/raw/master/
 	//Debug.Log("@"+file2.ToString());
 	//Debug.Log("2@"+file2);
 	//sw.WriteLine("try1");
-
+	text_error.text="version 1.1";
 			
 }
 
