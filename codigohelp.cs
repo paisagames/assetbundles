@@ -8,15 +8,17 @@ using UnityEngine.SceneManagement;
 public class codigo_help_xd : MonoBehaviour {
 	int xx=0;
 	// Use this for initialization
-	Text texto=GameObject.FindGameObjectWithTag("text_error").GetComponent<Text>();
+	public Text textof;
 	void Start () {
-	texto.text="1.3";
+		textof=GameObject.FindGameObjectWithTag("text_error").GetComponent<Text>();
+		textof.text="1.4";
+		//texto.text="1.3";
 	}
 	void Update(){
-	if(xx<1){
+	//if//(xx<1){
 		Debug.Log("xesmenor a 1");
-		xx=2;
-	}
+	//	xx=2;
+	//}
 	
 	
 	}
