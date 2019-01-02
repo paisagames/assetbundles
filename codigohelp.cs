@@ -6,9 +6,17 @@ using MySql.Data.MySqlClient;
 using UnityEngine.SceneManagement;
 
 public class codigo_help_xd : MonoBehaviour {
-
+	int xx=0;
 	// Use this for initialization
 	void Start () {
 	Debug.Log("adios!!!");	
+	}
+	void Update(){
+	if(xx<1){
+		Debug.Log("xesmenor a 1");
+		xx=2;
+	}
+	
+	
 	}
 }
