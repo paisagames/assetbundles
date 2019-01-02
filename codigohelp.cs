@@ -16,7 +16,7 @@ public class codigo_help_xd : MonoBehaviour {
 	}
 	void Update(){
 	//if//(xx<1){
-		Debug.Log("xesmenor a 1");
+		//Debug.Log("xesmenor a 1");
 	//	xx=2;
 	//}
 	
