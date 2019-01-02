@@ -11,7 +11,7 @@ public class codigo_help_xd : MonoBehaviour {
 	public Text textof;
 	void Start () {
 		textof=GameObject.FindGameObjectWithTag("text_error").GetComponent<Text>();
-		textof.text="1.4";
+		textof.text="1.5";
 		//texto.text="1.3";
 	}
 	void Update(){
