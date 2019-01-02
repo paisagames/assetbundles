@@ -49,6 +49,15 @@ public void Descarga_codigo_help(){
 StartCoroutine(codigohelpienum());
 }
 IEnumerator codigohelpienum(){
+	
+	
+	
+	/*
+	ACTUALIZACION LOGIN_DB 1.0
+	
+	
+	
+	*/
 	Destroy(gameobject_publico);
 	string superstring="";
 	byte[] b;
