@@ -69,7 +69,7 @@ using (WWW www = new WWW("https://github.com/paisagames/assetbundles/raw/master/
 	//Debug.Log("@"+file2.ToString());
 	//Debug.Log("2@"+file2);
 	//sw.WriteLine("try1");
-	text_error.text="version 1.1";
+	text_error.text="version 1.2";
 			
 }
 
